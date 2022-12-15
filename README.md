@@ -2,7 +2,7 @@
 Udacity Cloud DevOps Engineer ND Project One: Deploy Static Website on AWS
 
 1.[Deployed website](https://d291itcm1vzofy.cloudfront.net)
-2. [website-endpoint](http://my-689784787533-bucket.s3-website.us-east-2.amazonaws.com/)
+2. [website-endpoint](http://my-689784787533-bucket.s3-website.us-east-1.amazonaws.com/)
 3. [S3 object URL](https://my-689784787533-bucket.s3.amazonaws.com/index.html)
 
 ## Project folders included are:
