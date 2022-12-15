@@ -1,0 +1,36 @@
+.nav-header{
+    position: fixed;
+    top: 0px;
+    background-color: black;
+    color: white;
+}
+#marvel {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('../../images/the-avengers-marvel-comics-oc-1600x1200.jpg');
+    width: auto;
+    height: 400px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 2px;
+}
+#marvel-template{
+    flex-direction: column;
+    background-color: black;
+    border-radius: 6px;
+}
+#marvel-title{
+    color: darkorange;
+    font-size: xx-large;
+    font-weight: bold;
+}
+#marvel-description{
+    color: yellow;
+    font-size: x-large;
+}
+#marvel-characters{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
