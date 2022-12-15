@@ -10,3 +10,4 @@ Udacity Cloud DevOps Engineer ND Project One: Deploy Static Website on AWS
 
 
 ### Student's Name: Marietta Ngwe Akumbom
+#### Email: mariettangwe@outlook.com
