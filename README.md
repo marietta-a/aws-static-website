@@ -1,7 +1,7 @@
 # aws-static-website
 Udacity Cloud DevOps Engineer ND Project One: Deploy Static Website on AWS
 
-[deployed static website](https://d291itcm1vzofy.cloudfront.net)
+[Deployed website](https://d291itcm1vzofy.cloudfront.net)
 
 ## Project folders included are:
 
