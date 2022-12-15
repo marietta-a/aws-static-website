@@ -34,3 +34,8 @@
     flex-wrap: wrap;
     justify-content: space-evenly;
 }
+#error{
+    background-image: url(../../images/emptyState.webp);
+    width: auto;
+    height: 600px;
+}
