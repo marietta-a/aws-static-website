@@ -1,7 +1,9 @@
 # aws-static-website
 Udacity Cloud DevOps Engineer ND Project One: Deploy Static Website on AWS
 
-**Project folders included are:
+[Website link](https://d291itcm1vzofy.cloudfront.net)
 
-marietta-static-website - static website directory
-screenshots - screenshots for each step taken during the deployment process
+##Project folders included are:**
+
+1. marietta-static-website - static website directory
+2. screenshots - screenshots for each step taken during the deployment process
